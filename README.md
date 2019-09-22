@@ -19,6 +19,7 @@ References
 Thanks to the below people for providing the sample implementation. 
 
 http://ramok.tech/tag/real-time-video-object-detection/
+
 https://github.com/tahaemara/real-time-face-detection-using-opencv-with-java
 
 Linkedin Profile
