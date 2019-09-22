@@ -15,7 +15,7 @@ Steps to configure the application
 
 References
 
-Thanks to the below people for providing the sample implementation. 
+Thanks to the below sites and people for providing the sample implementation for opencv and dl4j
 
 http://ramok.tech/tag/real-time-video-object-detection/
 
