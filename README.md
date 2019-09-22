@@ -22,4 +22,4 @@ http://ramok.tech/tag/real-time-video-object-detection/
 https://github.com/tahaemara/real-time-face-detection-using-opencv-with-java
 
 Linkedin Profile
-linkedin.com/in/rajesh-venugopal-37786a11
+https://www.linkedin.com/in/rajesh-venugopal-37786a11/
