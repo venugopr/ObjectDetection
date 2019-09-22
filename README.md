@@ -13,9 +13,8 @@ Steps to configure the application
 	capture = new VideoCapture(0);
 	and uncomment lines 139 an 140 in ObjectDetection.java. Give the video file path in line 145.
 
-
-
 References
+
 Thanks to the below people for providing the sample implementation. 
 
 http://ramok.tech/tag/real-time-video-object-detection/
