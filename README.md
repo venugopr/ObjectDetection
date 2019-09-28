@@ -13,12 +13,12 @@ Steps to configure the application
 	capture = new VideoCapture(0);
 	and uncomment lines 139 an 140 in ObjectDetection.java. Give the video file path in line 145.
 
-
-
 References
-Thanks to the below people for providing the sample implementation. 
+
+Thanks to the below sites and people for providing the sample implementation for opencv and dl4j
 
 http://ramok.tech/tag/real-time-video-object-detection/
+
 https://github.com/tahaemara/real-time-face-detection-using-opencv-with-java
 
 Linkedin Profile
