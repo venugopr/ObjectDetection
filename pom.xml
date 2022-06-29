@@ -7,7 +7,7 @@
 	<artifactId>ObjectDetection</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<properties>
-		<slf4j.version>1.7.16</slf4j.version>
+		<slf4j.version>1.7.26</slf4j.version>
 		<log4j.version>2.13.3</log4j.version>
 		<deeplearning4j>1.0.0-beta4</deeplearning4j>
 	</properties>
